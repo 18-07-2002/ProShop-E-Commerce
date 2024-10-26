@@ -1,5 +1,1 @@
-# Proshop Project
-
-I course done with Traversy Media by Brad Traversy.
-
-This is a full functioning store demo.
+https://github.com/18-07-2002/ProShop-E-Commerce
