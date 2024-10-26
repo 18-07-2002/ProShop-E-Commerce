@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../frontend"
+		},
+		{
+			"path": "../.devcontainer"
+		},
+		{
+			"path": "../backend"
+		},
+		{
+			"path": ".."
+		}
+	]
+}
